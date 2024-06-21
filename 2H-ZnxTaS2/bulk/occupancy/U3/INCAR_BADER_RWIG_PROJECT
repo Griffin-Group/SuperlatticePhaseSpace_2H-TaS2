@@ -1,0 +1,23 @@
+GGA = PS
+LREAL = Auto
+ENCUT = 800.0
+ISMEAR = -5
+NELM = 1
+NSW = 0
+LPLANE = .TRUE.
+NCORE = 8
+LSCALU = .FALSE.
+NSIM = 4
+LDAU = .TRUE.
+LDAUTYPE = 2
+LDAUL = -1 -1 2
+LDAUU = 0.0 0.0 3.0
+LMAXMIX = 4
+
+# just postprocess dos
+ALGO = None
+LORBIT = 1
+RWIGS = 1.15 1.07 0.99 # from bader
+NEDOS = 2000
+LWAVE = .FALSE.
+LCHARG = .FALSE.
