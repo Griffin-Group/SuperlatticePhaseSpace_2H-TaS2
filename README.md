@@ -3,6 +3,3 @@ Project for computing occupancy phase space and related properties of Zn or Sc i
 
 # Computational Info
 Work in this repository was performed by me (Isaac Craig) and Bryan J. Kim (Sc Linear response U).
-
-# Organization:
-2H-Sc-TaS2
